@@ -1,0 +1,16 @@
+{
+  "name": "gerimedica-assignment",
+  "version": "1.0.0",
+  "description": "Assignment test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "himani",
+  "license": "ISC",
+  "devDependencies": {
+    "@4tw/cypress-drag-drop": "^2.2.3",
+    "cypress": "^12.8.1",
+    "cypress-file-upload": "^5.0.8"
+  }
+}
